@@ -1,0 +1,1 @@
+Highlight (or mark) all occurrences of the query in the text by surrounding them with ** or another marker of your choice.Highlight (or mark) all occurrences of the query in the text by surrounding them with ** or another marker of your choice.

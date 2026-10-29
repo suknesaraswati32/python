@@ -1,0 +1,1 @@
+●Accept a block of text and a search query as input.
